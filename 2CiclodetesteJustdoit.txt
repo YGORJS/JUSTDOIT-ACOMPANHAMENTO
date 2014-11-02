@@ -1,0 +1,37 @@
+ct001-não possui sistema de ajuda
+
+ct002-o numero da casa especial jogue outra vez recebe um valor
+que ultrapassa o numero de  casas
+
+ct002- o caminho de plano de fundo recebe qualquer valor
+nao possui restrições
+
+ 
+ct03-não existe a opçao voltar em alterar jogo
+
+
+
+ct005-ao voltar na opção buscar jogo e exibido uma mensagem vazia
+(apenas com uma imagem )
+
+ct006-não e possivel dar nomes aos peões
+
+ct007-não e possivel selecionar cor para os peões
+
+
+não e possivel jogar para avaliar os casos de testes:
+
+
+ct008
+ct009
+ct010
+ct011
+ct012
+ct013
+ct014
+ct015
+ct016
+ct024
+ct025
+ct026
+cr027
