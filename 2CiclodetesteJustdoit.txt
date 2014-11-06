@@ -1,28 +1,36 @@
-ct001-n„o possui sistema de ajuda
+ct001-n√£o possui sistema de ajuda
 
 ct002-o numero da casa especial jogue outra vez recebe um valor
-que ultrapassa o numero de  casas
+que ultrapassa o numero de  casas, letras, espa√ßos, numeros negativos..
 
-ct002- o caminho de plano de fundo recebe qualquer valor
-nao possui restriÁıes
+ct002- o caminho de plano de fundo recebe qualquer valor,
+nao possui restri√ß√µes ou um bot√£o para voc√™ selecionar o arquivo.
 
+ct002- Ao cadastrar um jogo com o mesmo nome, ele aceita portanto que use case sensitive(Ex.: Teste , teste).
  
-ct03-n„o existe a opÁao voltar em alterar jogo
+ct03-n√£o existe a op√ßao voltar em alterar jogo
+
+ct03-ao clicar em cancelar, o software avan√ßa para alterar algo no jogo.
 
 
-
-ct005-ao voltar na opÁ„o buscar jogo e exibido uma mensagem vazia
+ct005-ao voltar na op√ß√£o buscar jogo e exibido uma mensagem vazia
 (apenas com uma imagem )
 
-ct006-n„o e possivel dar nomes aos peıes
-
-ct007-n„o e possivel selecionar cor para os peıes
-
-
-n„o e possivel jogar para avaliar os casos de testes:
+ct008- Ao jogar pela segunda vez em diante qualquer jogo, o software tem armazenado o nome,cor j√° cadastrado antes
+dos pe√µes n√£o podendo colocar mais o mesmo nome, e quando colocado outros nomes,
+as informa√ß√µes anteriores aparecem junto com as atuais.
 
 
-ct008
+ct020- Ao alterar as casas especiais de algum jogo, ele √© duplicado.
+ct024- Ao tentar jogar um jogo duplicado ele pede para colocar o dobro de pe√µes/cores.
+
+ct002/ct029 - Ao excluir, cadastrar n√£o aparece nenhuma mensagem de sucesso.
+
+
+
+n√£o e possivel jogar para avaliar os casos de testes:
+
+
 ct009
 ct010
 ct011
@@ -31,7 +39,6 @@ ct013
 ct014
 ct015
 ct016
-ct024
 ct025
 ct026
 cr027
