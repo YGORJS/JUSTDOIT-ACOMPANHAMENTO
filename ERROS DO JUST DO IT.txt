@@ -1,0 +1,49 @@
+	Caso De Teste									Severidade						Prioridade
+
+ct001-não possui sistema de ajuda							- 	Minor			 	-		Médio
+
+ct002-o numero da casa especial jogue outra vez recebe um valor 			-	Critical			-		Alto
+que ultrapassa o numero de  casas, letras, espaços, numeros negativos..
+
+ct002- o caminho de plano de fundo recebe qualquer valor,				-	Major				-		Alto
+nao possui restrições ou um botão para você selecionar o arquivo.
+
+ct002- Ao cadastrar um jogo com o mesmo nome, ele aceita portanto que			-	Minor				-		Baixo
+ use case sensitive(Ex.: Teste , teste).			
+ 
+ct03-não existe a opçao voltar em alterar jogo						-	Minor				-		Baixo
+
+ct03-ao clicar em cancelar, o software avança para alterar algo no jogo.		-	Minor				-		Médio
+
+
+ct005-ao voltar na opção buscar jogo e exibido uma mensagem vazia			-	Trivial				-		Baixo
+(apenas com uma imagem )
+
+ct008- Ao jogar pela segunda vez em diante qualquer jogo, o software			-	Critical			-		Alto
+tem armazenado o nome,cor já cadastrado antes dos peões não podendo
+colocar mais o mesmo nome, e quando colocado outros nomes,
+as informações anteriores aparecem junto com as atuais.
+
+
+ct020- Ao alterar as casas especiais de algum jogo, ele é duplicado.			-	Critical			-		Alto
+
+ct024- Ao tentar jogar um jogo duplicado ele pede para colocar o dobro de peões/cores.  -	Critical			-		Alto
+
+ct002/ct029 - Ao excluir, cadastrar não aparece nenhuma mensagem de sucesso.		-	Trivial				-		Baixo
+
+
+
+não e possivel jogar para avaliar os casos de testes:
+
+
+ct009
+ct010
+ct011
+ct012
+ct013
+ct014
+ct015
+ct016
+ct025
+ct026
+cr027
